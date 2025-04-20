@@ -1,0 +1,24 @@
+<h3>What is Power BI?</h3>
+<p>Power BI is a software application for data visualisation, allowing you to create beautiful and easy-to-read visuals from raw data.
+These visuals help in data analysis and are an essential tool in today's data-driven world. 
+According to Gartner's research, Power BI is a leader in the data visualization market, highlighting its popularity and importance.
+</p>
+<h3>Key Components of Power BI</h3>
+<h4>Data Visualization</h4>
+<p>The primary function of Power BI is data visualisation. It helps transform complex data sets into visually appealing charts and graphs that are easy to interpret. This makes data analysis straightforward and accessible, even for those without a technical background.</p>
+
+<h4>Data Transformation</h4>
+
+<p>Before you can create visuals, you need to transform raw data into a more meaningful format. This process, known as data transformation, is also handled by Power BI. One of its inbuilt tools, the Power Query Editor, is particularly useful for this step.</p>
+
+<h4>Data Modelling</h4>
+
+<p>Between data transformation and visualization, there is a crucial step called data modelling. Data modelling involves connecting different data sources and establishing relationships between them. This helps in organizing the data in a way that makes it easier to analyze and visualize.</p>
+
+<h4>Power BI Desktop</h4>
+
+<p>All the steps mentioned above—data transformation, data modelling, and data visualization—are performed in Power BI Desktop. This is the developer part of Power BI, where you can build and refine your data projects.</p>
+
+<h4>Power BI Cloud and Mobile</h4>
+
+<p>In addition to Power BI Desktop, there is Power BI Cloud, a paid service that allows you to share and collaborate on your reports online. There is also a Power BI mobile application, which enables you to view your reports on your smartphone, ensuring you have access to your data insights anytime, anywhere.</p>
